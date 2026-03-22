@@ -1,3 +1,3 @@
-# JS Review Project - Joshua Simblante
+# JavaScript Review Project by Joshua G. Simblante
 
-This project is for practicing Git and GitHub.
+This project is a review of JavaScript concepts, from beginner to advanced.
